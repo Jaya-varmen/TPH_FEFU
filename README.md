@@ -20,4 +20,12 @@
 Установите зависимости:
 ```bash
 pip install python-telegram-bot transformers torch
+```
+
+# Что нужно изменить в файле bot v.0.2
+1. Перед запуском необходимо скачать модель с релиза Final (https://github.com/Jaya-varmen/TPH_FEFU/releases/tag/Final)
+2. В файле bot v.0.2.py необходимо вставить ссылку на путь к распакованой модели и вставить токен Telegram Bota
+
+Всё готово к работе.
+
 
